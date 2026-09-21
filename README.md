@@ -193,4 +193,4 @@ device.
 ---
 
 *Built with PyTorch, timm, albumentations and scikit-learn.
-Author: Simone Candelo.*
+Author: Simone Edoardo Candelo.*
